@@ -9,7 +9,13 @@
         }
 
         public void OrderPizza(string type, int number = 1){
-            this.factory.CreatPizza(type, number);
+            Pizza pizza;
+
+            pizza = this.factory.CreatPizza(type, number);
+            pizza.Prepare();
+            pizza.Bake();
+            pizza.Cut();
+            pizza.Box();
         }
 
         public void Main(){
