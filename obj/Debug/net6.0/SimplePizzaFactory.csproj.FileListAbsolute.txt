@@ -1,0 +1,15 @@
+D:\Repos\SimplePizzaFactory\bin\Debug\net6.0\SimplePizzaFactory.exe
+D:\Repos\SimplePizzaFactory\bin\Debug\net6.0\SimplePizzaFactory.deps.json
+D:\Repos\SimplePizzaFactory\bin\Debug\net6.0\SimplePizzaFactory.runtimeconfig.json
+D:\Repos\SimplePizzaFactory\bin\Debug\net6.0\SimplePizzaFactory.dll
+D:\Repos\SimplePizzaFactory\bin\Debug\net6.0\ref\SimplePizzaFactory.dll
+D:\Repos\SimplePizzaFactory\bin\Debug\net6.0\SimplePizzaFactory.pdb
+D:\Repos\SimplePizzaFactory\obj\Debug\net6.0\SimplePizzaFactory.csproj.AssemblyReference.cache
+D:\Repos\SimplePizzaFactory\obj\Debug\net6.0\SimplePizzaFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\SimplePizzaFactory\obj\Debug\net6.0\SimplePizzaFactory.AssemblyInfoInputs.cache
+D:\Repos\SimplePizzaFactory\obj\Debug\net6.0\SimplePizzaFactory.AssemblyInfo.cs
+D:\Repos\SimplePizzaFactory\obj\Debug\net6.0\SimplePizzaFactory.csproj.CoreCompileInputs.cache
+D:\Repos\SimplePizzaFactory\obj\Debug\net6.0\SimplePizzaFactory.dll
+D:\Repos\SimplePizzaFactory\obj\Debug\net6.0\ref\SimplePizzaFactory.dll
+D:\Repos\SimplePizzaFactory\obj\Debug\net6.0\SimplePizzaFactory.pdb
+D:\Repos\SimplePizzaFactory\obj\Debug\net6.0\SimplePizzaFactory.genruntimeconfig.cache
